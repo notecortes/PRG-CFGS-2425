@@ -2,7 +2,7 @@
 
 # Programación
 
-## 1^r^ curso CFGS DAM (2024-2025)
+## 1º CFGS DAM (2024-2025)
 
 [README_ES.md (contenido en Español)](README_ES.md) :es:
 
