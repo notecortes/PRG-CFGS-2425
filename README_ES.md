@@ -31,13 +31,9 @@ Links interesantes
   - [UD01_ejercicios_ES.pdf](UD01/UD01_ejercicios_ES.pdf)
   - [Samples Sources](_code/Programacion/src/UD01/)
 
-### Extras:
+### Extras
 
-- [UD01_Anexo_EN.pdf](/UD01/UD01_Anexo_EN.pdf)
-- [UD00_GitHubVsCode_ES.pdf](UD01/UD00_GitHubVsCode_ES.pdf)
-- [UD00_Markdown_manual_supervivencia.pdf](UD01/UD00_Markdown_manual_supervivencia.pdf)
-- [¿Porqué java se ejecuta sin que yo compile?](https://openjdk.org/jeps/330)
--  [UD01_Anexo_EN.pdf](UD01/UD01_Anexo_EN.pdf) <-- Instrucciones para instalar el IDE
+[¿Porqué java se ejecuta sin que yo compile?](https://openjdk.org/jeps/330)
 
 ### Actividades
 - `1. Retos` (1, 2, 3, 4, 5, 6, 7)
@@ -47,7 +43,12 @@ Links interesantes
 - `2. Ejercicios` (13, 14, 15, 18)
 - `2.1. Expresiones lógicas` (5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22)
 
-- [GitHub 1](UD01/UD00_GitHubVsCode_ES.pdf)
+### Talleres:
+
+- [UD01_T01_NoMachine_ES.pdf](/UD01/UD01_T01_NoMachine_ES.pdf)
+- [UD01_T02_JDK&IDE_EN.pdf](/UD01/UD01_T02_JDK&IDE_EN.pdf)
+- [UD01_T03_GitHubVsCode_ES.pdf](/UD01/UD01_T03_GitHubVsCode_ES.pdf)
+- [UD01_T04_Markdown.pdf](/UD01/UD01_T04_Markdown.pdf)
 
 ## UD02: Utilización de Objetos y Clases 
 ### Contenido
@@ -122,11 +123,12 @@ System.out.println("\nTotal Time: " + (end - start) + "ms");
 
 - `3 Actividades` (12, 13)
 
-- Acepta el reto
 
-  Inscribete en la web [www.aceptaelreto.com](http://www.aceptaelreto.com) seleccionando nuestro instituto.
+### Talleres
 
-  Haz una captura de pantalla de tu perfil una vez hecho login con tu usuario y envia la captura en un pdf al profesor.
+UD03_T01_AceptaElReto: Inscribete en la web [www.aceptaelreto.com](http://www.aceptaelreto.com) seleccionando nuestro instituto.
+
+Haz una captura de pantalla de tu perfil una vez hecho login con tu usuario y envia la captura en un pdf al profesor.
 
 ## UD04: Estructuras de datos: Arrays y matrices. Recursividad. 
 
