@@ -395,13 +395,13 @@ Ana->>Mundo: Estoy bien gracias!
 
 Para crear el índice a partir de los encabezados creados debemos insertar ``[TOC]`` .
 
-## Tarea propuesta para el alumn@
+# Tarea
 
 Como tarea, se propone:
 
 - Crear un documento markdown en tu editor markdown favorito (por ejemplo Typora o VSCode) que documente información acerca de tí mismo.
 - En dicho documento crear título, índice.
-- Añadir 4 encabezados principales (y otros encabezados secundarios dentro de éstos) en el que hables por ejemplo de: *Tus datos*, *Currículum*, *Aficiones* y *Otros datos de interés*. <u>No</u> hace falta que indiques <u>información personal relevante</u>.
+- Añadir 4 encabezados principales (y otros encabezados secundarios dentro de éstos) en el que hables por ejemplo de: *Tus datos*, *Currículum*, *Aficiones* y *Otros datos de interés*. <u>No</u> hace falta que indiques <u>información personal relevante</u>. (O te la puedes inventar)
 - Se valorará la inclusión de distintos elementos como: negrita-cursiva-subrayado, listas ordenadas-desordenadas-tareas, enlaces, imágenes, citas, código, etc.
 - Si te atreves con ello, crea un diagrama de flujo en el que indiques los pasos que realizas un sábado por la mañana.
 - Exporta el documento a pdf.

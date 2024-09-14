@@ -98,7 +98,7 @@ Debemos asegurarnos de que la modificación se puede agregar al repositorio orig
 
 Ahora debemos pulsar el botón [Create pull request].
 
-# Tareas
+# Tarea
 
-Sigue los pasos de este taller guiado para sugerir una modificación de cualquiera de los archivos de los repositorios del profesor [martinezpenya](https://github.com/martinezpenya) (Preferiblemente del curso 24-25). Adjunta a la tarea de AULES un pdf con la captura de pantalla similar a esta donde se vé que has solicitado el pull request y que estás esperando a que se integre en el repositorio original. Explica que significan cada uno de los 5 apartados señalados en la captura:
+Sigue los pasos de este taller guiado para sugerir una modificación de cualquiera de los archivos de los repositorios del profesor [martinezpenya](https://github.com/martinezpenya) (Preferiblemente del curso 24-25). Adjunta a la tarea de AULES un `.pdf` con la **captura** de pantalla similar a esta donde se vé que has solicitado el **pull request** y que estás esperando a que se integre en el repositorio original. Además, **explica** que significan cada uno de los **5 apartados** señalados en la captura:
 ![Screenshot_20220106_180847](assets/vscode_10_pullrequest3.png)

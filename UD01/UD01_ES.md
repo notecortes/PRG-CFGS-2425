@@ -180,12 +180,12 @@ Ejemplo: Dividir
 
 Dado un problema P, un **algoritmo** es un conjunto de reglas o pasos que indican cómo resolver P en un tiempo finito.
 
-Ejemplo: Secuencias de reglas básicas que utilizamos para realizar operaciones aritméticas: sumas, restas, productos y divisiones.
+> #### Secuencias de reglas básicas que utilizamos para realizar operaciones aritméticas: sumas, restas, productos y divisiones.
 
 > #### Algoritmo para desayunar
 >
 >```pseudocode
->Begin20/9/2022)
+>Begin
 >	Sentarse
 >	Servirse café con leche
 >	Servirse azucar
@@ -705,10 +705,10 @@ Los **Operadores Lógicos** permiten realizar operaciones lógicas:
 
 | Operador   | Uso                 | Operación                                                    |
 | ---------- | ------------------- | ------------------------------------------------------------ |
-| `&&` o `&` | `a&&b` o<br />`a&b` | a AND b. El resultado será *true* si ambos operadores son *true* y *false* en caso contrario. |
-| `||` o `|` | `a||b` o<br />`a|b` | a OR b. El resultado será *false* si ambos operandos son *false* y *true* en caso contrario |
-| `!`        | `!a`                | NOT a. Si el operando es *true* el resultado es *false* y si el operando es *false* el resultado es *true*. |
-| `^`        | `a^b`               | a XOR b. El resultado será *true* si un operando es *true* y el otro *false*, y *false* en caso contrario. |
+| `&&` o `&` | `a&&b` o<br />`a&b` | a **AND** b. El resultado será *true* si ambos operadores son *true* y *false* en caso contrario. |
+| `||` o `|` | `a||b` o<br />`a|b` | a **OR** b. El resultado será *false* si ambos operandos son *false* y *true* en caso contrario |
+| `!`        | `!a`                | **NOT** a. Si el operando es *true* el resultado es *false* y si el operando es *false* el resultado es *true*. |
+| `^`        | `a^b`               | a **XOR** b. El resultado será *true* si un operando es *true* y el otro *false*, y *false* en caso contrario. |
 
 Ejemplo:
 
