@@ -36,7 +36,7 @@ typora-copy-images-to:${filename}/../assets
    ```java
    public class ConversionExplicita {
    	public static void main (String [] args) {
-    		double realLlarg = 300.0;
+    		double realLlarg = 3000000000.0;
     		// Asignación incorrecta. ¿Un real tiene decimales, no?
     		long enterLlarg = (long) realLlarg;
     		// Asignación incorrecta. ¿Un entero largo tiene un rango mayor que un entero, no?
@@ -52,7 +52,7 @@ typora-copy-images-to:${filename}/../assets
 
 # Ejercicios
 
- Solo se puede usar en esta actividad ya que no se a explicado en profundida en este tema y lo  pueden confundir con el  System.console().readLine(); 
+ Solo se puede usar en esta actividad ya que no se a explicado en profundidad en este tema y lo  pueden confundir con el  `System.console().readLine()`; 
 
 1. Probar la E/S elemental: Escribe el pequeño programa que aparece a continuación.
 
@@ -77,8 +77,6 @@ typora-copy-images-to:${filename}/../assets
 
    ¿Qué ocurre si eliminamos la instrucción `import java.util.*`;
 
-  
-
 2. Averigua mediante pruebas:
 
    1. ¿Es posible escribir dos instrucciones en la misma línea de un programa?
@@ -95,8 +93,8 @@ typora-copy-images-to:${filename}/../assets
    7. `A b`
    8. `1rApellido`
    9. `aaaaaaaaaaaa`
-   10. `Nombre_Apellidos`
-   11. `Saldo-actual`
+   10. `NombreApellidos` 
+   11. `Saldo-actual` 
    12. `Universidad Alicante`
    13. `Juan=Rubio`
    14. `Edad5`
@@ -187,7 +185,7 @@ typora-copy-images-to:${filename}/../assets
     F= \frac{(G · m1 · m2)}{d^2}
     $$
 
-    *donde G es la constante de gravitación universal G= 6.693 · 10 ^–11^.* 
+    *donde G es la constante de gravitación universal G= 6.672 · 10 ^–11^.* 
 
     Escribir un programa que lea la masa de dos cuerpos y la distancia entre ellos y a continuación obtenga su fuerza de atracción.
 

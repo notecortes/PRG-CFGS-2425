@@ -485,7 +485,7 @@ Unicode es un código de caracteres o sistema de codificación, un alfabeto que 
 
 ## Convenciones
 
-**Normas de estilo para nombra variables**
+**Normas de estilo para nombrar variables**
 
 A la hora de nombrar un identificador existen una serie de normas de estilo de uso generalizado que, no siendo obligatorias, se usan en la mayor parte del código Java. Estas reglas para la nomenclatura de variables son las siguientes:
 
@@ -542,10 +542,10 @@ Ejemplo de declaración y asignación de valores a variables:
 |         short | `short b, c=3;`                                              |
 |           int | `int d=-30;`<br />`int e=0xC125; //la 0x significa Hexadecimal` |
 |          long | `long b=46240;`<br />`long b=5L; // La L en este caso indica Long` |
-|          char | `char car1='c'`<br />`char car2=99; //car1 y car2 son iguales, la c equivale al ascii 99`<br />`char letra = '\u0061'; //código unicode del carácter "a"` |
+|          char | `char car1='c';`<br />`char car2=99; //car1 y car2 son iguales, la c equivale al ascii 99`<br />`char letra = '\u0061'; //código unicode del carácter "a"` |
 |         float | `float pi=3.1416;`<br />`float pi=3.1416F; //La F significa float`<br />`float medio=1/2; //0.5` |
 |        double | `double millon=1e6; // 1x10^6`<br />`double medio=1/2D; //0.5, la D significa double`<br />`double z=.123; //si la parte entera es 0 se puede omitir` |
-|       boolean | `boolean esPrimero;`<br />`boolean par=false;`               |
+|       boolean | `boolean esPrimero;`<br />`boolean esPar=false;`             |
 > ##### Ojo con los tipo float: https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
 
 # Tipos referenciados
@@ -972,8 +972,8 @@ System.out.println("El número es: "+numero); //entre 0 y 99.9999999999999999999
 entero = (int)(Math.random()*100);
 System.out.println("El número sin decimales es: "+entero); //entre 0 y 99
 
-int lado = ((int)(Math.random()*6))+1   
-char letra = (int)((Math.random()*26)+65) //65..90
+int lado = ((int)(Math.random()*6))+1;
+char letra = (char)((Math.random()*26)+65); //65..90
 System.out.println(letra); //A..Z
 ```
 

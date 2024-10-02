@@ -15,7 +15,7 @@ typora-copy-images-to:${filenam_manual_supervivenciae}/../assets
 
 ## Localizar repositorio.
 
-Primero localizamos el repositorio con el que queremos colaborar:
+Primero localizamos el repositorio con el que queremos colaborar (Por favor, busca uno del año actual, la imagen es solo un ejemplo):
 
 1. Buscamos al usuario (En todo `GitHub`):
 
