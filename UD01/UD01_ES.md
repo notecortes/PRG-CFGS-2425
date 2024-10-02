@@ -542,10 +542,10 @@ Ejemplo de declaración y asignación de valores a variables:
 |         short | `short b, c=3;`                                              |
 |           int | `int d=-30;`<br />`int e=0xC125; //la 0x significa Hexadecimal` |
 |          long | `long b=46240;`<br />`long b=5L; // La L en este caso indica Long` |
-|          char | `char car1='c';`<br />`char car2=99; //car1 y car2 son iguales, la c equivale al ascii 99`<br />`char letra = '\u0061'; //código unicode del carácter "a"` |
+|          char | `char car1='c'`<br />`char car2=99; //car1 y car2 son iguales, la c equivale al ascii 99`<br />`char letra = '\u0061'; //código unicode del carácter "a"` |
 |         float | `float pi=3.1416;`<br />`float pi=3.1416F; //La F significa float`<br />`float medio=1/2; //0.5` |
 |        double | `double millon=1e6; // 1x10^6`<br />`double medio=1/2D; //0.5, la D significa double`<br />`double z=.123; //si la parte entera es 0 se puede omitir` |
-|       boolean | `boolean esPrimero;`<br />`boolean esPar=false;`             |
+|       boolean | `boolean esPrimero;`<br />`boolean par=false;`               |
 > ##### Ojo con los tipo float: https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
 
 # Tipos referenciados
@@ -634,7 +634,7 @@ El calificador final indica que es constante. A continuación indicaremos el tip
 final double IVA= 0.21;
 ```
 
-Los **literales** pueden ser de tipo simple, null o String, como por ejemplo 230, null o "Java".
+Los **literales** pueden ser de tipo simple, null o string, como por ejemplo 230, null o "Java".
 
 Respecto a los literales existen unos caracteres especiales que se representan utilizando secuencias de escape:
 

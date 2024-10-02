@@ -190,7 +190,9 @@ public class NombreDeLaClase {
 
 Significa que la clase que se define es pública. Una clase pública es una clase accesible desde otras clases o, dicho de otra forma,  que puede ser utilizada por otras clases. Ya hemos dicho que un programa, de alguna manera, consiste en la creación de objetos de distintas clases, que se relacionan entre sí. Lo más común es que las clases que definimos sean públicas y que en cada fichero de extensión `.java` se defina una única clase.
 
-Sin embargo, en ocasiones se definen clases (`A`) que solo van a ser utilizadas por una clase determinada (`B`). En ese caso, decimos que la clase `A` es una clase privada de la clase `B`.  Las clases `A` y `B` se definen en el mismo fichero `.java`. En un fichero pueden definirse varias clases pero solo una de ellas puede ser pública. De esta forma, si en un fichero se definen varias clases, una de ellas sería pública y el resto serían clases privadas de la primera, a las que solo ésta tendría acceso.
+Sin embargo, en ocasiones se definen clases (`A`) que solo van a ser utilizadas por una clase determinada (`B`). En ese caso, decimos que la clase `A` es una clase privada de la clase `B`.  Las clases `A` y `B` se definen en el mismo fichero `.java`. 
+
+> ### En un fichero pueden definirse varias clases pero solo una de ellas puede ser pública. De esta forma, si en un fichero se definen varias clases, una de ellas sería pública y el resto serían clases privadas de la primera, a las que solo ésta tendría acceso.
 
 # Utilización de Objetos
 
@@ -831,9 +833,10 @@ public class Pajaro {
         this.posX = posX;
         this.posY = posY;
     }
+    
     //metodos
-    double volar(int posX, int posY) {
-        double desplazamiento = Math.sqrt(posX * posX + posY * posY);
+    public double volar(int posX, int posY) {
+        double desplazamiento = Math.sqrt((posX * posX) + (posY * posY));
         //desplazamiento=Math.sqrt(Math.pow(posX,2)+Math.pow(posY,2));
         this.posX = posX;
         this.posY = posY;
