@@ -293,7 +293,7 @@ Haz una captura de pantalla de tu perfil una vez hecho login con tu usuario y en
 - `UD09.3_Actividades` (1 y 4)
 - Sigue la guía [UD09_Calculadora_en_JavaFX_IntelliJ_ES.pdf](UD09/UD09_Calculadora_en_JavaFX_IntelliJ_ES.pdf) "Calculadora en JavaFX (IntelliJ)"
 
-  La tarea consiste en seguir la guia y crear tu aplicación en IntelliJ, pon como título de aplicación tu nombre y apellidos y a continuación genera el archivo jar siguiendo estas instrucciones:
+  La tarea consiste en seguir la guía y crear tu aplicación en IntelliJ, pon como título de aplicación tu nombre y apellidos y a continuación genera el archivo jar siguiendo estas instrucciones:
 
   > Instructions:
   >
