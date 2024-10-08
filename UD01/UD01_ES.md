@@ -168,13 +168,13 @@ Ejemplo: Raíz cuadrada.
 - Determinar la raíz cuadrada de un número n.
 - Determinar la raíz cuadrada de un número n, entero no negativo, cualquiera.
 
-Ejemplo: Dividir
+Ejemplo: Dividir.
 
 - Calcular la división de dos números de dos números a y b.
 - Calcular el cociente entero de la división a/b, donde a y b son números enteros y b es
-  distinto de cero. (5/2 = 2)
+  distinto de cero. (5/2 = 2).
 - Calcular el cociente real de la división a/b, donde a y b son números reales y b es
-  distinto de cero (5/2 = 2.5)
+  distinto de cero (5/2 = 2.5).
 
 ## Algoritmos
 
