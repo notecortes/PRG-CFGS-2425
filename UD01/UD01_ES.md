@@ -168,13 +168,13 @@ Ejemplo: Raíz cuadrada.
 - Determinar la raíz cuadrada de un número n.
 - Determinar la raíz cuadrada de un número n, entero no negativo, cualquiera.
 
-Ejemplo: Dividir
+Ejemplo: Dividir.
 
 - Calcular la división de dos números de dos números a y b.
 - Calcular el cociente entero de la división a/b, donde a y b son números enteros y b es
-  distinto de cero. (5/2 = 2)
+  distinto de cero. (5/2 = 2).
 - Calcular el cociente real de la división a/b, donde a y b son números reales y b es
-  distinto de cero (5/2 = 2.5)
+  distinto de cero (5/2 = 2.5).
 
 ## Algoritmos
 
@@ -355,11 +355,11 @@ public class Holamundo {
 }
 ```
 
-El código java en las clases se agrupa en funciones o métodos. Cuando java ejecuta el código de una clase busca la función o método `main()` para ejecutarla. Es público (`public`) estático (`static`) para llamarlo sin instanciar la clase. No devuelve ningún valor (`void`) y admite parámetros (`Strings [] args`) que en este caso no se han utilizado.
+El código java en las clases se agrupa en funciones o métodos. Cuando java ejecuta el código de una clase busca la función o método `main()` para ejecutarla. Es público (`public`) estático (`static`) para llamarlo sin instanciar la clase. No devuelve ningún valor (`void`) y admite parámetros (`Strings[] args`) que en este caso no se han utilizado.
 
 ```java
 [...]
-	public static void main (String [] args)
+	public static void main (String[] args)
 	{
 		[...]
 	}

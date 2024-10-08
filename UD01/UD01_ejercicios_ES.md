@@ -3,7 +3,7 @@ title: Ejercicios de la UD01
 language: ES
 author: David Martínez Peña [www.martinezpenya.es]
 subject: Programación
-keywords: [PRG, 2024, Programacion, Java]
+keywords: [PRG, 2024, Programación, Java]
 IES: IES Eduardo Primo Marqués (Carlet) [www.ieseduardoprimo.es]
 header: ${title} - ${subject} (ver. ${today}) 
 footer:${currentFileName}.pdf - ${author} - ${IES} - ${pageNo}/${pageCount}
@@ -394,19 +394,12 @@ Expresar las siguientes afirmaciones utilizando operadores lógicos y relacional
     public class Activ13 {
     	public static void main(String[] args) {
            	int num = 4;
-    		num %= 7 * num % 3 * 3;
-            num = num % (7 * num % 3 * 3);
-            num = 4 % ((7 * 4) % 3 * 3);
-            num = 4 % (28 % 3) * 3);
-            num= 4 % (1 * 3);
-            num = 4 % 3;
-            num=1;
-            
+    		num %= 7 * num % 3 * 3;   
             System.out.println(num);
     	}
     }
     ```
-
+    
 14. Realizar un programa que muestre por pantalla respetando los saltos de carro el siguiente texto (con un solo `println`):
 
     ```sh
@@ -430,7 +423,7 @@ Expresar las siguientes afirmaciones utilizando operadores lógicos y relacional
     ```sh
     Introduce la nota del primer examen: 8
     ¿Qué nota quieres sacar en el trimestre? 7
-    Para tener un 7 en el trimestre necesitas sacar un 6.33 en el segundo examen.
+    Para tener un 7 en el trimestre necesitas sacar un 6.333333333 en el segundo examen.
     ```
 
 20. Realizar un programa que dado un importe en euros nos indique el mínimo número de billetes y la cantidad sobrante de euros. Debes usar el operador condicional `?:`

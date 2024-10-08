@@ -17,7 +17,7 @@ typora-copy-images-to:${filename}/../assets
 
 La **programación orientada a objetos (POO)** es un modelo para la elaboración de programas que ha impuesto en los últimos años. Este auge se debe, en parte, a que esta forma de programar está fuertemente basada en la representación de la realidad; pero también a que refuerza el uso de buenos criterios aplicables al desarrollo de programas.
 
-> ### *La orientación a objetos no es un tipo de lenguaje de programación. Es una metodología de trabajo para crear programas.*
+> ### La orientación a objetos no es un tipo de lenguaje de programación. Es una metodología de trabajo para crear programas.
 
 En POO, un programa es una colección de objetos que se relacionan entre sí de distintas formas.
 
@@ -39,7 +39,7 @@ Cuando hablamos de Programación Orientada a Objetos, existen una serie de carac
 
 En este contexto, un objeto de software es una representación de un objeto del mundo real, compuesto de una serie de características y un comportamiento específico. Pero ¿qué es más concretamente un objeto en Programación Orientada a Objetos? Veámoslo.
 
-> ### *Un objeto es un conjunto de datos con las operaciones definidas para ellos. Los objetos tienen un estado y un comportamiento*.
+> ### Un objeto es un conjunto de datos con las operaciones definidas para ellos. Los objetos tienen un estado y un comportamiento.
 
 Por tanto, estudiando los objetos que están presentes en un problema podemos dar con la solución a dicho problema. Los objetos tienen unas características fundamentales que los distinguen:
 
@@ -51,7 +51,7 @@ Una clase java se escribe en un fichero con extensión `.java` que tiene el mism
 
 Cuando la clase se compila se obtiene un fichero con el mismo nombre que la clase y extensión `.class`. Ej.: `Vehiculo.class`.
 
-> ### *Los identificadores de clase siguen las mismas reglas que otros identificadores de Java (contienen carácter alfanuméricos y especiales, no pueden comenzar por un dígito, no pueden coincidir con una palabra reservada, etc.). Por convenio los identificadores de las clases comienzan por mayúsculas.*
+> ### Los identificadores de clase siguen las mismas reglas que otros identificadores de Java (contienen carácter alfanuméricos y especiales, no pueden comenzar por un dígito, no pueden coincidir con una palabra reservada, etc.). Por convenio los identificadores de las clases comienzan por mayúsculas.
 
 ## Propiedades y métodos de los objetos
 
@@ -554,7 +554,7 @@ Los paquetes se declaran utilizando la palabra clave `package` seguida del nombr
 Para establecer el paquete al que pertenece una clase hay que poner una sentencia de declaración como la siguiente al principio de la clase:
 
 ```java
-package Nombre_de_Paquete;
+package nombre_de_Paquete;
 ```
 
 Por ejemplo, si decidimos agrupar en un paquete `ejemplos` un programa llamado `Bienvenida`, pondríamos  en nuestro fichero `Bienvenida.java` lo siguiente:
