@@ -33,3 +33,7 @@
 
 ### Seguimiento
 Si no hay una sugerencia mejor, que uno de los miembros del equipo me envie un email a [martinez_dav@ieseduardoprimo.es](mailto:martinez_dav@ieseduardoprimo.es) con una captura de pantalla donde se vea el número de problema y que el juez online ha aceptado la solución.
+
+## Cambios
+
+Probando a cambiar un archivo
